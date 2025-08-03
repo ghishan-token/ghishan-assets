@@ -1,15 +1,15 @@
 {
   "name": "Ghishan Token List",
-  "logoURI": "https://raw.githubusercontent.com/<username>/ghishan-assets/main/assets/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/ghishan-token/ghishan-assets/main/assets/logo.png",
   "keywords": ["ghishan", "GS", "polygon"],
   "tokens": [
     {
       "chainId": 137,
-      "address": "0xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "address": "0xb12BCA103C9c7EE06DDAf6fB02F4f501f23732cF",
       "name": "GHISHAN",
       "symbol": "GS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/<username>/ghishan-assets/main/assets/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ghishan-token/ghishan-assets/main/assets/logo.png"
     }
   ],
   "version": {
